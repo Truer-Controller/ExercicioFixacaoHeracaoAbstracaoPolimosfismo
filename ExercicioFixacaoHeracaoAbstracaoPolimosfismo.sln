@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioFixacaoHeracaoAbstracaoPolimosfismo", "ExercicioFixacaoHeracaoAbstracaoPolimosfismo.csproj", "{D333C558-CEC9-4564-88C3-1EE07C28FC22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D333C558-CEC9-4564-88C3-1EE07C28FC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D333C558-CEC9-4564-88C3-1EE07C28FC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D333C558-CEC9-4564-88C3-1EE07C28FC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D333C558-CEC9-4564-88C3-1EE07C28FC22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01B73FF4-4EBE-4748-BB14-2FDD648CAC19}
+	EndGlobalSection
+EndGlobal
